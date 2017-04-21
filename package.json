@@ -1,0 +1,27 @@
+{
+  "name": "electron-starter",
+  "version": "1.0.0",
+  "description": "An Electron Starter Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven-fernandez/Electron-Starter.git"
+  },
+  "keywords": [
+    "Electron",
+    "Starter"
+  ],
+  "author": "Steven Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven-fernandez/Electron-Starter/issues"
+  },
+  "homepage": "https://github.com/steven-fernandez/Electron-Starter#readme",
+  "devDependencies": {
+    "electron": "^1.6.5"
+  }
+}
